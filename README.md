@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olivierjm&label=Profile%20views&color=0e75b6&style=flat" alt="olivierjm" /> </p>
 
-- 📝  I regularly write articles on [https://olivierjm.dev](https://olivierjm.dev)
+- 📝  I write articles at [olivierjm.dev](https://olivierjm.dev)
+
+- You can find my other contributions on Gitlab here [https://gitlab.com/olivierjmm](https://gitlab.com/olivierjmm) 
 
 - 📫  How to reach me **manolivier93@gmail.com**
 
