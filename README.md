@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OlivierJM</h1>
-<h3 align="center">A passionate software engineer working at <a href="https://doublegdp.com/about">DoubleGDP</a></h3>
+<p>I am very passionate software engineer, currently working at <a href="https://doublegdp.com/about">DoubleGDP</a>, I enjoy mentoring junior devs and those getting started in their software development carrier, feel free to reach out.</p>
 
 - 📝  I write articles at [olivierjm.dev](https://olivierjm.dev)
 
