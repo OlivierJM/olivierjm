@@ -12,4 +12,4 @@ I maintain a few opensource repositories here on Github in my freetime and I do 
 - I write articles at [olivierjm.dev](https://olivierjm.dev)
 - You can find my other contributions on Gitlab here [https://gitlab.com/olivierjmm](https://gitlab.com/olivierjmm) 
 - Stackoverflow profile [https://stackoverflow.com/users/story/5991690](https://stackoverflow.com/users/story/5991690)
-- You can reach me **manolivier93@gmail.com** 
+- You can reach me at **manolivier93@gmail.com** 
