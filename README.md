@@ -6,7 +6,7 @@ I maintain a few opensource repositories here on Github in my freetime and I do 
 - In my past life I worked at:
     - [Bongohive](https://github.com/bongohive) as an intern for the [e-Granary Digital Library](https://www.widernet.org/egranary/) project 
     - [Hackersguild](https://github.com/hackersguild) as a software engineer, later to senior and Javascript bootcamp instructor
-    - [Sparkman Center at UAB](https://github.com/sparkeduab) as a lead engineer consultant - Remote
+    - [Sparkman Center at UAB](https://www.uab.edu/sparkmancenter/) as a lead engineer consultant - Remote
     - [The ZIG](https://www.thezig.io/) as a senior software engineer
     - [Rural Coding Series](https://github.com/RuralCodingSeries) as a volunteer lead instructor in different technology camps to teach rural kids programming 
 - I write articles at [olivierjm.dev](https://olivierjm.dev)
