@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Olivier JM</h1> 
 
-Thanks for checking out my profile, I am a passionate software engineer who enjoys getting things done, I am currently working with the team at <a href="https://doublegdp.com/about">DoubleGDP</a> to build software for future modern cities.  
+Thanks for checking out my profile, I am a passionate software engineer who enjoys getting things done, I am currently working with the team at <a href="https://doublegdp.com/about">DoubleGDP</a> as a [senior software engineer](https://www.doublegdp.com/company/2021/08/30/olivierm-promotion/) to build software for future modern cities.  
 I maintain a few opensource repositories here on Github in my freetime and I do contribute to other opensource projects from time to time, I enjoy mentoring junior devs and those getting started in their software development carrier, feel free to reach out.
 
 - In my past life I worked at:
