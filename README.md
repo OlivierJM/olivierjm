@@ -9,7 +9,7 @@ I maintain a few opensource repositories here on Github in my freetime and I do 
     - [Sparkman Center at UAB](https://www.uab.edu/sparkmancenter/) as a lead engineer consultant - Remote
     - [The ZIG](https://www.thezig.io/) as a senior software engineer
     - [Rural Coding Series](https://github.com/RuralCodingSeries) as a volunteer lead instructor in different technology camps to teach rural kids programming 
-- I write articles at [olivierjm.dev](https://olivierjm.dev)
+- I used to write articles on [medium](https://medium.com/@olivierjm) and at [olivierjm.dev](https://olivierjm.dev)
 - You can find my other contributions on Gitlab here [https://gitlab.com/olivierjmm](https://gitlab.com/olivierjmm) 
 - Stackoverflow profile [https://stackoverflow.com/users/story/5991690](https://stackoverflow.com/users/story/5991690)
 - You can reach me at **manolivier93@gmail.com** 
