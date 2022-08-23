@@ -8,6 +8,7 @@ I maintain a few opensource repositories here on Github in my freetime and I do 
     - [Hackersguild](https://github.com/hackersguild) as a software engineer, later to senior and Javascript bootcamp instructor
     - [Sparkman Center at UAB](https://www.uab.edu/sparkmancenter/) as a lead engineer consultant - Remote
     - [The ZIG](https://www.thezig.io/) as a senior software engineer
+    - [DoubleGDP](https://www.doublegdp.com/) as a senior Ruby on Rails/Reactjs software engineer 
     - [Rural Coding Series](https://github.com/RuralCodingSeries) as a volunteer lead instructor in different technology camps to teach rural kids programming 
 - I used to write articles on [medium](https://medium.com/@olivierjm) and at [olivierjm.dev](https://olivierjm.dev)
 - You can find my other contributions on Gitlab here [https://gitlab.com/olivierjmm](https://gitlab.com/olivierjmm) 
