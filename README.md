@@ -12,7 +12,6 @@ I maintain a few opensource repositories here on Github in my freetime and I do 
     - [DoubleGDP](https://www.doublegdp.com/) as a senior Ruby on Rails/Reactjs software engineer 
     - [Rural Coding Series](https://github.com/RuralCodingSeries) as a volunteer lead instructor in different technology camps to teach rural kids programming 
 - I used to write articles on [medium](https://medium.com/@olivierjm) and at [olivierjm.dev](https://olivierjm.dev)
-- You can find my other contributions on Gitlab here [https://gitlab.com/olivierjmm](https://gitlab.com/olivierjmm) 
 - LinkedIn Profile [https://linkedin.com/in/olivierjm](https://linkedin.com/in/olivierjm) 
 - You can reach me at **manolivier93@gmail.com** 
 - [My resume can be found here](https://docs.google.com/document/d/1BpUtPsKKPwvZVsw3a4JVyLR5aDLo4tkJWrHryOZIWlA/edit?usp=sharing) 
