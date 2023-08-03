@@ -5,7 +5,7 @@ Thanks for checking out my profile, I am a passionate software engineer who enjo
 I maintain a few opensource repositories here on Github in my freetime and I do contribute to other opensource projects from time to time, I enjoy mentoring junior devs and those getting started in their software development carrier, feel free to reach out.
 
 - In my past life I worked at:
-    - [Bongohive](https://github.com/bongohive) as a contractor for the [e-Granary Digital Library](https://www.widernet.org/egranary/) project 
+    - [Bongohive](https://github.com/bongohive) as a contractor for the [e-Granary Digital Library](https://widernet-egranary.org) project 
     - [Hackersguild](https://github.com/hackersguild) as a software engineer, later to senior and Javascript bootcamp instructor
     - [Sparkman Center at UAB](https://www.uab.edu/sparkmancenter/) as a lead engineer consultant - Remote
     - [The ZIG](https://www.thezig.io/) as a senior software engineer
