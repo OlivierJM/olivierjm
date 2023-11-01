@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Olivier JM</h1> 
 
-Thanks for checking out my profile, I am a passionate software engineer who enjoys getting things done, Currently I am working with great minds at [deel.com](https://deel.com) to build the future of global remote hiring tools.
-
-I maintain a few opensource repositories here on Github in my freetime and I do contribute to other opensource projects from time to time, I enjoy mentoring junior devs and those getting started in their software development carrier, feel free to reach out.
+Thanks for checking out my profile, I am a passionate software engineer who enjoys getting things done. I maintain a few opensource repositories here on Github in my freetime and I do contribute to other opensource projects from time to time, I enjoy mentoring junior devs and those getting started in their software development carrier, feel free to reach out.
 
 - In my past life I worked at:
     - [Bongohive](https://github.com/bongohive) as a contractor for the [e-Granary Digital Library](https://widernet-egranary.org) project 
